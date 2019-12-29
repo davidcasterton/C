@@ -13,9 +13,16 @@ class BULLCOWGAME_API UBullCowCartridge : public UCartridge
 
 	public:
 	virtual void BeginPlay() override;
+	void EndGame();
+	void GetValidWords();
+	bool IsIsogram(const FString& Word) const;
 	virtual void OnInput(const FString& Input) override;
+	void SetupGame();
 
-	// Your declarations go below!
 	private:
-	
+	TMap<int32, TCHAR> Bulls;
+    TArray<TCHAR> Cows;
+	FString HiddenWord;
+	int32 Lives;
+	TArray<FString> ValidWords;
 };
