@@ -6,7 +6,7 @@
 #include "Console/Cartridge.h"
 #include "BullCowCartridge.generated.h"
 
-struct FBullsAndCows
+struct FBullCows
 {
 	TMap<int32, TCHAR> Bulls;
 	TArray<TCHAR> Cows;
@@ -20,10 +20,11 @@ class BULLCOWGAME_API UBullCowCartridge : public UCartridge
 	public:
 	virtual void BeginPlay() override;
 	void EndGame();
-	FBullsAndCows GetBullsAndCows(const FString& Word);
+	FBullCows GetBullsAndCows(const FString& Word) const;
 	void GetValidWords();
 	bool IsIsogram(const FString& Word) const;
 	virtual void OnInput(const FString& Input) override;
+	void PrintBullsAndCows(const FBullCows BullCows) const;
 	void SetupGame();
 
 	private:

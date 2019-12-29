@@ -57,14 +57,19 @@ void UBullCowCartridge::OnInput(const FString& Input) // When the player hits en
         PrintLine(TEXT("Hint: no repeating characters."));
     }
 
-    // check characters
-    FBullsAndCows BullsAndCows = GetBullsAndCows(Input);
+    // check for bulls and cows
+    FBullCows BullCows = GetBullsAndCows(Input);
+    PrintBullsAndCows(BullCows);
     
+}
+
+void UBullCowCartridge::PrintBullsAndCows(const FBullCows BullCows) const
+{
     // print out bulls
-    if (BullsAndCows.Bulls.Num() > 0)
+    if (BullCows.Bulls.Num() > 0)
     {
         FString BullsStr = TEXT("");
-        for (auto& Bull : BullsAndCows.Bulls)
+        for (auto& Bull : BullCows.Bulls)
         {
             BullsStr += FString::FromInt(Bull.Key) + TEXT(":") + Bull.Value + TEXT(" ");
         }
@@ -72,28 +77,28 @@ void UBullCowCartridge::OnInput(const FString& Input) // When the player hits en
     }
 
     // print out cows
-    if (BullsAndCows.Cows.Num() > 0)
+    if (BullCows.Cows.Num() > 0)
     {
         FString CowsStr = TEXT("");
-        for (auto& Cow : BullsAndCows.Cows)
+        for (auto& Cow : BullCows.Cows)
         {
             CowsStr.AppendChar(Cow);
-            CowsStr += " ";
+            CowsStr += TEXT(" ");
         }
         PrintLine(TEXT("Cows: %s"), *CowsStr);
     }
 }
 
-FBullsAndCows UBullCowCartridge::GetBullsAndCows(const FString& Word)
+FBullCows UBullCowCartridge::GetBullsAndCows(const FString& Word) const
 {
-    FBullsAndCows BullsAndCows;
+    FBullCows BullCows;
 
     for (int32 i = 0; i < Word.Len(); i++)
     {
         // check for bull
         if ((i < HiddenWord.Len()) && (Word[i] == HiddenWord[i]))
         {
-            BullsAndCows.Bulls.Emplace(i, Word[i]);
+            BullCows.Bulls.Emplace(i, Word[i]);
             continue;
         }
 
@@ -102,13 +107,13 @@ FBullsAndCows UBullCowCartridge::GetBullsAndCows(const FString& Word)
         {
             if (Word[i] == HiddenWord[k])
             {
-                BullsAndCows.Cows.AddUnique(Word[i]);
+                BullCows.Cows.AddUnique(Word[i]);
                 break;
             }
         }
     }
 
-    return BullsAndCows;
+    return BullCows;
 }
 
 bool UBullCowCartridge::IsIsogram(const FString& Word) const
