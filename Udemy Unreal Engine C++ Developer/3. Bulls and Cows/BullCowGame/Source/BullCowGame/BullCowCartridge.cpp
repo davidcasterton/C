@@ -58,44 +58,57 @@ void UBullCowCartridge::OnInput(const FString& Input) // When the player hits en
     }
 
     // check characters
-    Bulls.Empty();
-    Cows.Empty();
-    for (int32 i = 0; i < Input.Len(); i++)
+    FBullsAndCows BullsAndCows = GetBullsAndCows(Input);
+    
+    // print out bulls
+    if (BullsAndCows.Bulls.Num() > 0)
     {
-        // check for bull
-        if ((i < HiddenWord.Len()) && (Input[i] == HiddenWord[i]))
-        {
-            Bulls.Emplace(i, Input[i]);
-        }
-
-        // check for cow
-        for (int32 k = 0; k < HiddenWord.Len(); k++)
-        {
-            if (Input[i] == HiddenWord[k])
-            {
-                Cows.AddUnique(Input[i]);
-            }
-        }
-    }
-    if (Bulls.Num() > 0)
-    {
-        FString BullsStr = "";
-        for (auto& Bull : Bulls)
+        FString BullsStr = TEXT("");
+        for (auto& Bull : BullsAndCows.Bulls)
         {
             BullsStr += FString::FromInt(Bull.Key) + TEXT(":") + Bull.Value + TEXT(" ");
         }
         PrintLine(TEXT("Bulls: %s"), *BullsStr);
     }
-    if (Cows.Num() > 0)
+
+    // print out cows
+    if (BullsAndCows.Cows.Num() > 0)
     {
         FString CowsStr = TEXT("");
-        for (auto& Cow : Cows)
+        for (auto& Cow : BullsAndCows.Cows)
         {
             CowsStr.AppendChar(Cow);
             CowsStr += " ";
         }
         PrintLine(TEXT("Cows: %s"), *CowsStr);
     }
+}
+
+FBullsAndCows UBullCowCartridge::GetBullsAndCows(const FString& Word)
+{
+    FBullsAndCows BullsAndCows;
+
+    for (int32 i = 0; i < Word.Len(); i++)
+    {
+        // check for bull
+        if ((i < HiddenWord.Len()) && (Word[i] == HiddenWord[i]))
+        {
+            BullsAndCows.Bulls.Emplace(i, Word[i]);
+            continue;
+        }
+
+        // check for cow
+        for (int32 k = 0; k < HiddenWord.Len(); k++)
+        {
+            if (Word[i] == HiddenWord[k])
+            {
+                BullsAndCows.Cows.AddUnique(Word[i]);
+                break;
+            }
+        }
+    }
+
+    return BullsAndCows;
 }
 
 bool UBullCowCartridge::IsIsogram(const FString& Word) const
@@ -117,10 +130,10 @@ void UBullCowCartridge::SetupGame()
 {
     // variable init
     HiddenWord = ValidWords[FMath::RandRange(0, ValidWords.Num() - 1)];
-    Lives = HiddenWord.Len() * 2;
+    Lives = HiddenWord.Len();
 
     // welcome the player
-    ClearScreen();
+    //ClearScreen();  // TODO add back in
     PrintLine(TEXT("Welcome to Bulls & Cows!"));
     PrintLine(TEXT("Guess the %i letter word."), HiddenWord.Len());
     PrintLine(TEXT("Type your guess then press enter."));
@@ -129,7 +142,7 @@ void UBullCowCartridge::SetupGame()
 
 void UBullCowCartridge::EndGame()
 {
-    PrintLine(TEXT("\nPress enter to play again."));
+    //PrintLine(TEXT("\nPress enter to play again."));
     //std::cin.get(); // TODO
     SetupGame();
 }
