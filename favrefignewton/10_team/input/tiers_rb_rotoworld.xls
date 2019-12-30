@@ -1,0 +1,2073 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel"xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1252\"><meta name=ProgId content=Excel.Sheet><meta name=Generator content="Microsoft Excel 9\"><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Positional Tiers rb</x:Name><x:WorksheetOptions><x:Selected/><x:ProtectContents>False</x:ProtectContents><x:ProtectObjects>False</x:ProtectObjects><x:ProtectScenarios>False</x:ProtectScenarios></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets><x:ProtectStructure>False</x:ProtectStructure><x:ProtectWindows>False</x:ProtectWindows></x:ExcelWorkbook></xml><![endif]--></head><body><table><table cellspacing='1' cellpadding='1' border='1'>
+<tr><td colspan='21' bgCOLOR='#007922'><b><font color=#FFFFFF>WWW.ROTOWORLD.COM - Tiered Rankings and Projections for Running Backs</font></b></td></tr>
+<tr>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Rank</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Overall</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tier</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Player</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tm</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>AGE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Pos</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>BYE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ADP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RUTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RCTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FMBL</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>KRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>TDO</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PPR</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>62S</th>
+</tr>
+<tr><td> #1</td><td>1</td><td>1</td>
+<td>Adrian Peterson</td><td>MIN</td>
+<td>28</td><td>RB</td>
+<td>5</td>
+<td>1.1</td>
+<td>325</td>
+<td>1756</td>
+<td>11</td>
+<td>7</td>
+<td>38</td>
+<td>315</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>69</td>
+<td>313</td>
+<td>275</td>
+<td style='background-color:#CCFF99'>279.10</td>
+</tr>
+<tr><td colspan='2'></td><td align='left'>The first player off the board this year should be Adrian Peterson. He's coming off a 411-touch season and closing in on the dreaded 30 years of age, but after what he did coming off a torn ACL during the 2012 season, Peterson is the only logical No. 1 back. He’s going to take a step back in 2013, but “AD” is the most consistently-dominant back of the last six years. If he’s on the board, he should be your pick.</td><td colspan='18'></td></tr>
+<tr>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Rank</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Overall</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tier</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Player</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tm</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>AGE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Pos</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>BYE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ADP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RUTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RCTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FMBL</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>KRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>TDO</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PPR</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>62S</th>
+</tr>
+<tr><td> #2</td><td>2</td><td>2</td>
+<td>Doug Martin</td><td>TB</td>
+<td>24</td><td>RB</td>
+<td>5</td>
+<td>2.5</td>
+<td>285</td>
+<td>1311</td>
+<td>9</td>
+<td>5</td>
+<td>51</td>
+<td>416</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>65</td>
+<td>288</td>
+<td>237</td>
+<td style='background-color:#CCFF99'>238.70</td>
+</tr>
+<tr><td> #3</td><td>3</td><td>2</td>
+<td>Arian Foster</td><td>HOU</td>
+<td>27</td><td>RB</td>
+<td>8</td>
+<td>4.5</td>
+<td>297</td>
+<td>1274</td>
+<td>12</td>
+<td>5</td>
+<td>44</td>
+<td>327</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>76</td>
+<td>279</td>
+<td>235</td>
+<td style='background-color:#CCFF99'>238.10</td>
+</tr>
+<tr><td> #4</td><td>4</td><td>2</td>
+<td>C.J. Spiller</td><td>BUF</td>
+<td>26</td><td>RB</td>
+<td>12</td>
+<td>4.3</td>
+<td>259</td>
+<td>1426</td>
+<td>6</td>
+<td>6</td>
+<td>44</td>
+<td>359</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>39</td>
+<td>260</td>
+<td>216</td>
+<td style='background-color:#CCFF99'>220.50</td>
+</tr>
+<tr><td> #5</td><td>5</td><td>2</td>
+<td>Jamaal Charles</td><td>KC</td>
+<td>26</td><td>RB</td>
+<td>10</td>
+<td>5.1</td>
+<td>232</td>
+<td>1276</td>
+<td>7</td>
+<td>5</td>
+<td>57</td>
+<td>444</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>45</td>
+<td>273</td>
+<td>216</td>
+<td style='background-color:#CCFF99'>220.00</td>
+</tr>
+<tr><td> #6</td><td>6</td><td>2</td>
+<td>LeSean McCoy</td><td>PHI</td>
+<td>25</td><td>RB</td>
+<td>12</td>
+<td>7.0</td>
+<td>275</td>
+<td>1213</td>
+<td>9</td>
+<td>4</td>
+<td>47</td>
+<td>353</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>57</td>
+<td>260</td>
+<td>213</td>
+<td style='background-color:#CCFF99'>216.60</td>
+</tr>
+<tr><td colspan='2'></td><td align='left'>Our second tier includes a five spot of strong RB1 options. These guys are a step down from Adrian Peterson, but should fill out the top six picks of most drafts.<br/><br/>Martin exploded onto the scene as a rookie last season, locking himself in as the team’s long-term feature back. A three-down player, there’s not much to be concerned with here in terms of another back stealing passing-down or, to a lesser extent, goal line reps. If Martin is your top back, you’re in great hands.<br/><br/>Spending the past few years as the feature back in one of the league’s run-heaviest offenses, there’s certainly reason to believe Foster could begin to fade in 2013. The good news is that he keeps producing, is only 26-years-old and there is no sign Houston will move away from a run-first attack.<br/><br/>Spiller has been dominant thus far in his career (5.5 YPC) and doesn’t have much tread on his tires (388 career carries). His only potential roadblocks to a gigantic fantasy season are his lack of experience as an every-down back and the presence of veteran Fred Jackson. Spiller is primed for a breakout season.<br/><br/>Charles is one of the league’s best backs, but it’s fair to expect a drop in carries now that Andy Reid is calling the shots. Of course, we’ve seen before that Charles can do a lot of damage without 20-plus carries every week (not unlike Brian Westbrook and LeSean McCoy under Reid in Philadelphia). Additionally, Charles will see a boost in targets going forward, which will only add to his value.<br/><br/>McCoy's role will be tweaked a bit now that Chip Kelly has taken over the Eagles’ offense, but the good news is that Kelly figures to roll with a run-heavy offense, which will mean plenty of work for both McCoy and Bryce Brown. The Eagles’ recent struggles and the emergence of Brown have made it easy to overlook McCoy, but he’s still only 25 and unquestionably one of the league’s most-talented backs.</td><td colspan='18'></td></tr>
+<tr>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Rank</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Overall</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tier</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Player</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tm</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>AGE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Pos</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>BYE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ADP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RUTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RCTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FMBL</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>KRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>TDO</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PPR</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>62S</th>
+</tr>
+<tr><td> #7</td><td>7</td><td>3</td>
+<td>Marshawn Lynch</td><td>SEA</td>
+<td>27</td><td>RB</td>
+<td>12</td>
+<td>9.9</td>
+<td>278</td>
+<td>1300</td>
+<td>9</td>
+<td>5</td>
+<td>25</td>
+<td>202</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>57</td>
+<td>232</td>
+<td>207</td>
+<td style='background-color:#CCFF99'>210.20</td>
+</tr>
+<tr><td> #8</td><td>8</td><td>3</td>
+<td>Trent Richardson</td><td>CLE</td>
+<td>22</td><td>RB</td>
+<td>10</td>
+<td>8.5</td>
+<td>277</td>
+<td>1139</td>
+<td>8</td>
+<td>4</td>
+<td>52</td>
+<td>401</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>52</td>
+<td>257</td>
+<td>205</td>
+<td style='background-color:#CCFF99'>208.00</td>
+</tr>
+<tr><td> #9</td><td>9</td><td>3</td>
+<td>Ray Rice</td><td>BAL</td>
+<td>26</td><td>RB</td>
+<td>8</td>
+<td>7.5</td>
+<td>240</td>
+<td>1050</td>
+<td>8</td>
+<td>4</td>
+<td>51</td>
+<td>414</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>58</td>
+<td>255</td>
+<td>204</td>
+<td style='background-color:#CCFF99'>206.40</td>
+</tr>
+<tr><td> #10</td><td>10</td><td>3</td>
+<td>Alfred Morris</td><td>WAS</td>
+<td>24</td><td>RB</td>
+<td>5</td>
+<td>13.7</td>
+<td>272</td>
+<td>1306</td>
+<td>9</td>
+<td>5</td>
+<td>16</td>
+<td>130</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>58</td>
+<td>217</td>
+<td>201</td>
+<td style='background-color:#CCFF99'>203.60</td>
+</tr>
+<tr><td colspan='2'></td><td align='left'>In most formats, all four players in our third tier should be gone in the first round. There are some minor question marks/concerns for each player, but they make for solid RB1 options.<br/><br/>Now 27, Lynch has enjoyed a career resurrection since getting traded to Seattle during the 2010 season. The Seahawks figure to be one of the league’s best teams this year, which will give Lynch, their clear feature back, a ton of opportunities to handle the ball and score touchdowns…Richardson is a high-risk/high-reward pick after an underwhelming, injury-plagued rookie season. Still only 22-years-old and fresh off a season that saw him handle over three-quarters of Cleveland’s carries, however, there’s a lot to love about the Browns’ workhorse.<br/><br/>Rice is one of the game's most-versatile backs, but after three consecutive years with 400-plus touches, it's fair to expect backup Bernard Pierce to take on a larger role after a strong rookie season. Rice, of course, is still a premier talent and won’t lose his job as the team’s lead back...Morris had an outstanding rookie season, averaging 4.8 YPC on 351 carries. He’s all but a non-factor in the passing game, but was working as an every-down back in a run-first offense that scored a ton of points down the stretch. He's a borderline top-10 fantasy running back.<br/><br/></td><td colspan='18'></td></tr>
+<tr>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Rank</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Overall</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tier</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Player</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tm</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>AGE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Pos</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>BYE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ADP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RUTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RCTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FMBL</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>KRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>TDO</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PPR</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>62S</th>
+</tr>
+<tr><td> #11</td><td>12</td><td>4</td>
+<td>Steven Jackson</td><td>ATL</td>
+<td>30</td><td>RB</td>
+<td>6</td>
+<td>17.0</td>
+<td>244</td>
+<td>1049</td>
+<td>9</td>
+<td>4</td>
+<td>43</td>
+<td>356</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>59</td>
+<td>241</td>
+<td>198</td>
+<td style='background-color:#CCFF99'>200.50</td>
+</tr>
+<tr><td> #12</td><td>13</td><td>4</td>
+<td>Stevan Ridley</td><td>NE</td>
+<td>24</td><td>RB</td>
+<td>10</td>
+<td>23.6</td>
+<td>286</td>
+<td>1230</td>
+<td>11</td>
+<td>5</td>
+<td>11</td>
+<td>85</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>63</td>
+<td>205</td>
+<td>194</td>
+<td style='background-color:#CCFF99'>197.50</td>
+</tr>
+<tr><td> #13</td><td>14</td><td>4</td>
+<td>Matt Forte</td><td>CHI</td>
+<td>27</td><td>RB</td>
+<td>8</td>
+<td>14.5</td>
+<td>248</td>
+<td>1068</td>
+<td>4</td>
+<td>4</td>
+<td>54</td>
+<td>469</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>34</td>
+<td>240</td>
+<td>186</td>
+<td style='background-color:#CCFF99'>189.70</td>
+</tr>
+<tr><td> #14</td><td>17</td><td>4</td>
+<td>Frank Gore</td><td>SF</td>
+<td>30</td><td>RB</td>
+<td>9</td>
+<td>35.4</td>
+<td>244</td>
+<td>1133</td>
+<td>8</td>
+<td>4</td>
+<td>20</td>
+<td>158</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>52</td>
+<td>200</td>
+<td>180</td>
+<td style='background-color:#CCFF99'>183.10</td>
+</tr>
+<tr><td> #15</td><td>18</td><td>4</td>
+<td>Chris Johnson</td><td>TEN</td>
+<td>27</td><td>RB</td>
+<td>8</td>
+<td>18.1</td>
+<td>248</td>
+<td>1142</td>
+<td>5</td>
+<td>4</td>
+<td>35</td>
+<td>287</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>34</td>
+<td>211</td>
+<td>176</td>
+<td style='background-color:#CCFF99'>178.90</td>
+</tr>
+<tr><td> #16</td><td>19</td><td>4</td>
+<td>David Wilson</td><td>NYG</td>
+<td>22</td><td>RB</td>
+<td>9</td>
+<td>34.0</td>
+<td>238</td>
+<td>1098</td>
+<td>7</td>
+<td>4</td>
+<td>24</td>
+<td>195</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>46</td>
+<td>198</td>
+<td>174</td>
+<td style='background-color:#CCFF99'>177.30</td>
+</tr>
+<tr><td> #17</td><td>22</td><td>4</td>
+<td>Maurice Jones-Drew</td><td>JAC</td>
+<td>28</td><td>RB</td>
+<td>9</td>
+<td>25.5</td>
+<td>245</td>
+<td>1135</td>
+<td>5</td>
+<td>4</td>
+<td>33</td>
+<td>248</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>33</td>
+<td>203</td>
+<td>170</td>
+<td style='background-color:#CCFF99'>174.30</td>
+</tr>
+<tr><td colspan='2'></td><td align='left'>Our fourth tier includes seven backs fitting the bill of a borderline RB1. Assuming our top-10 backs are off the board when you’re on the clock in the second round, you can probably grab an elite wideout or Jimmy Graham before snatching up a fourth-tier back the next time around.<br/><br/>Jackson moves on to Atlanta this season, which provides him with an opportunity to eclipse double digit touchdowns for the first time since 2006. Jacquizz Rodgers will be a threat on passing downs, but Jackson is a more-than-capable three-down back.<br/><br/>As long as short-yardage bulldozer Michael Bush is in the picture, touchdowns will be hard to come by for Forte (10 total over the last two years). Of course, he'll continue to see a heavy chunk of the offensive snaps, including a ton of targets…Johnson isn’t the fantasy superstar of old, but he remains one of the league’s most-talented backs. Set to turn 28 this year, there’s still some gas in the tank. Shonn Greene will steal a few carries, and certainly some goal line work, but Johnson is the lead back, making him a decent RB2 option.<br/><br/>Ridley benefited from facing, by far, more Nickel defenses than any other back last season. Still, he was effective when called upon and defensive schemes don’t figure to change against New England any time soon. Shane Vereen is becoming a threat for snaps, but Ridley is the lead and clear goal line back…After a strong, healthy 2012 season that lasted 19 games, Gore is locked in as the 49ers’ feature back. Any sign of decline, however, and Kendall Hunter and/or LaMichael James could quickly take on a larger role.<br/><br/>The speedy Wilson is the favorite for the Giants' lead back job going forward. Inexperience and Andre Brown, who is certain to be in the mix for touches and could steal goal line work, are concerns. There's risk here, but Wilson’s ceiling is massive…Jones-Drew suffered through an injury-plagued 2012 season, but is expected back in the saddle as Jacksonville’s workhorse in 2013. He’s now 28, but will be fresh after nearly a full year off—not to mention motivated in a contract year. He's a fine second or third-round target.</td><td colspan='18'></td></tr>
+<tr>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Rank</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Overall</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tier</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Player</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tm</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>AGE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Pos</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>BYE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ADP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RUTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RCTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FMBL</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>KRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>TDO</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PPR</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>62S</th>
+</tr>
+<tr><td> #18</td><td>23</td><td>5</td>
+<td>Lamar Miller</td><td>MIA</td>
+<td>22</td><td>RB</td>
+<td>6</td>
+<td>35.4</td>
+<td>217</td>
+<td>988</td>
+<td>7</td>
+<td>3</td>
+<td>29</td>
+<td>232</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>46</td>
+<td>196</td>
+<td>167</td>
+<td style='background-color:#CCFF99'>170.00</td>
+</tr>
+<tr><td> #19</td><td>24</td><td>5</td>
+<td>Reggie Bush</td><td>DET</td>
+<td>28</td><td>RB</td>
+<td>9</td>
+<td>21.3</td>
+<td>166</td>
+<td>747</td>
+<td>5</td>
+<td>2</td>
+<td>60</td>
+<td>493</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>41</td>
+<td>0</td>
+<td>40</td>
+<td>223</td>
+<td>163</td>
+<td style='background-color:#CCFF99'>166.00</td>
+</tr>
+<tr><td> #20</td><td>28</td><td>5</td>
+<td>Darren McFadden</td><td>OAK</td>
+<td>25</td><td>RB</td>
+<td>7</td>
+<td>33.4</td>
+<td>238</td>
+<td>952</td>
+<td>5</td>
+<td>3</td>
+<td>40</td>
+<td>323</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>34</td>
+<td>201</td>
+<td>161</td>
+<td style='background-color:#CCFF99'>163.50</td>
+</tr>
+<tr><td> #21</td><td>32</td><td>5</td>
+<td>Chris Ivory</td><td>NYJ</td>
+<td>25</td><td>RB</td>
+<td>10</td>
+<td>68.4</td>
+<td>232</td>
+<td>1045</td>
+<td>7</td>
+<td>4</td>
+<td>17</td>
+<td>140</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>40</td>
+<td>175</td>
+<td>158</td>
+<td style='background-color:#CCFF99'>160.50</td>
+</tr>
+<tr><td> #22</td><td>33</td><td>5</td>
+<td>DeMarco Murray</td><td>DAL</td>
+<td>25</td><td>RB</td>
+<td>11</td>
+<td>25.8</td>
+<td>215</td>
+<td>947</td>
+<td>4</td>
+<td>3</td>
+<td>40</td>
+<td>315</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>28</td>
+<td>193</td>
+<td>153</td>
+<td style='background-color:#CCFF99'>156.20</td>
+</tr>
+<tr><td> #23</td><td>35</td><td>5</td>
+<td>Darren Sproles</td><td>NO</td>
+<td>30</td><td>RB</td>
+<td>7</td>
+<td>25.8</td>
+<td>76</td>
+<td>381</td>
+<td>2</td>
+<td>0</td>
+<td>81</td>
+<td>660</td>
+<td>6</td>
+<td>0</td>
+<td>0</td>
+<td>233</td>
+<td>109</td>
+<td>48</td>
+<td>233</td>
+<td>152</td>
+<td style='background-color:#CCFF99'>152.10</td>
+</tr>
+<tr><td> #24</td><td>42</td><td>5</td>
+<td>Daryl Richardson</td><td>STL</td>
+<td>23</td><td>RB</td>
+<td>11</td>
+<td>63.8</td>
+<td>200</td>
+<td>868</td>
+<td>6</td>
+<td>2</td>
+<td>30</td>
+<td>234</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>39</td>
+<td>178</td>
+<td>148</td>
+<td style='background-color:#CCFF99'>152.20</td>
+</tr>
+<tr><td> #25</td><td>43</td><td>5</td>
+<td>Eddie Lacy</td><td>GB</td>
+<td>22</td><td>RB</td>
+<td>4</td>
+<td>53.5</td>
+<td>214</td>
+<td>878</td>
+<td>7</td>
+<td>2</td>
+<td>18</td>
+<td>146</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>46</td>
+<td>165</td>
+<td>147</td>
+<td style='background-color:#CCFF99'>150.40</td>
+</tr>
+<tr><td> #26</td><td>54</td><td>5</td>
+<td>Giovani Bernard</td><td>CIN</td>
+<td>21</td><td>RB</td>
+<td>12</td>
+<td>56.1</td>
+<td>192</td>
+<td>864</td>
+<td>3</td>
+<td>3</td>
+<td>40</td>
+<td>324</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>23</td>
+<td>181</td>
+<td>141</td>
+<td style='background-color:#CCFF99'>142.80</td>
+</tr>
+<tr><td> #27</td><td>55</td><td>5</td>
+<td>Ryan Mathews</td><td>SD</td>
+<td>25</td><td>RB</td>
+<td>8</td>
+<td>48.5</td>
+<td>202</td>
+<td>832</td>
+<td>5</td>
+<td>2</td>
+<td>26</td>
+<td>199</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>34</td>
+<td>162</td>
+<td>136</td>
+<td style='background-color:#CCFF99'>139.10</td>
+</tr>
+<tr><td colspan='2'></td><td align='left'>Our fifth tier includes back-end RB2 options and strong flex options. These backs will begin coming off the board as early as the late third round, but some will still be available three or four rounds later.<br/><br/>The Jets' acquisition of Ivory locks him in as their early-down workhorse—not unlike Shonn Greene in years’ past. Previously buried in New Orleans, Ivory has had his share of injury troubles, but his 5.1 career YPC gives plenty of reason for optimism… After a disappointing 2012 season in which he averaged a pathetic 3.3 yards-per-carry, it's fair to be concerned about McFadden’s 2013 prospects. Of course, he’s only 25, has been strong in the past, and Oakland’s tweaked offense will be better suited to his skillset.<br/><br/>Now in Detroit, carries and touchdowns will be harder for Bush to find. Of course, he’ll be heavily involved in the passing game, which puts 80 receptions within reach… Durability is a concern for Murray, but there's a lot to like here. He’ll be 25 when the season starts and Dallas has not been afraid to use him as a workhorse when healthy. His career YPC mark is a stellar 4.8.<br/><br/>A second-round draft pick in April, Lacy is our top-ranked rookie. He'll have some competition from fellow rookie Johnathan Franklin and DuJuan Harris, but Lacy is the favorite for early-down and goal line work, which gives him the leg up in 2013...Our second-ranked rookie, we don't expect Bernard's path to a sizable role to be hindered much by BenJarvus Green-Ellis. The rookie has a high ceiling and, if everything goes according to plan, could flirt with RB1 value by season's end.<br/><br/>Sproles turned 30 this past offseason, but he’s still extremely effective, and returns in 2013 as Drew Brees’ well-fed underneath option on passing downs. He's may not eclipse 100 carries, but should lead all backs in receptions. He’s a borderline RB1 in PPR leagues…Richardson beat out Isaiah Pead and Zac Stacy for the Rams' starting gig. He'll get some heat from Pead, but it's Richardson's job to lose. He was outstanding on tape and on the stat sheet during the first half of the 2012 season and is a prime breakout candidate.<br/><br/>After a promising first two years in the league, Mathews took a giant step back in 2012. He remains San Diego's lead back, but the addition of third-down ace Danny Woodhead confirms that Mathews won't be a three-down back…Miller will take over as Miami’s lead back this season. Only a fourth-rounder in 2012, he’s risky – and may not play all three downs if his pass-blocking doesn’t improve – but there’s a ton of upside here, especially after he averaged 4.9 yards-per-carry as a rookie.</td><td colspan='18'></td></tr>
+<tr>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Rank</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Overall</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tier</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Player</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tm</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>AGE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Pos</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>BYE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ADP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RUTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RCTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FMBL</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>KRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>TDO</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PPR</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>62S</th>
+</tr>
+<tr><td> #28</td><td>56</td><td>6</td>
+<td>Rashard Mendenhall</td><td>ARZ</td>
+<td>26</td><td>RB</td>
+<td>9</td>
+<td>62.9</td>
+<td>208</td>
+<td>804</td>
+<td>6</td>
+<td>2</td>
+<td>18</td>
+<td>144</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>40</td>
+<td>152</td>
+<td>134</td>
+<td style='background-color:#CCFF99'>136.80</td>
+</tr>
+<tr><td> #29</td><td>57</td><td>6</td>
+<td>Ahmad Bradshaw</td><td>IND</td>
+<td>27</td><td>RB</td>
+<td>8</td>
+<td>62.3</td>
+<td>170</td>
+<td>770</td>
+<td>5</td>
+<td>2</td>
+<td>29</td>
+<td>224</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>34</td>
+<td>162</td>
+<td>133</td>
+<td style='background-color:#CCFF99'>135.40</td>
+</tr>
+<tr><td> #30</td><td>58</td><td>6</td>
+<td>Shane Vereen</td><td>NE</td>
+<td>24</td><td>RB</td>
+<td>10</td>
+<td>59.4</td>
+<td>120</td>
+<td>516</td>
+<td>4</td>
+<td>1</td>
+<td>55</td>
+<td>446</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>35</td>
+<td>185</td>
+<td>130</td>
+<td style='background-color:#CCFF99'>132.20</td>
+</tr>
+<tr><td> #31</td><td>59</td><td>6</td>
+<td>Montee Ball</td><td>DEN</td>
+<td>22</td><td>RB</td>
+<td>9</td>
+<td>60.9</td>
+<td>198</td>
+<td>810</td>
+<td>5</td>
+<td>3</td>
+<td>15</td>
+<td>128</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>34</td>
+<td>142</td>
+<td>127</td>
+<td style='background-color:#CCFF99'>129.80</td>
+</tr>
+<tr><td> #32</td><td>60</td><td>6</td>
+<td>DeAngelo Williams</td><td>CAR</td>
+<td>30</td><td>RB</td>
+<td>4</td>
+<td>88.3</td>
+<td>167</td>
+<td>704</td>
+<td>5</td>
+<td>1</td>
+<td>20</td>
+<td>159</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>34</td>
+<td>139</td>
+<td>119</td>
+<td style='background-color:#CCFF99'>122.30</td>
+</tr>
+<tr><td> #33</td><td>74</td><td>6</td>
+<td>Andre Brown</td><td>NYG</td>
+<td>26</td><td>RB</td>
+<td>9</td>
+<td>76.7</td>
+<td>113</td>
+<td>526</td>
+<td>6</td>
+<td>1</td>
+<td>13</td>
+<td>111</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>41</td>
+<td>117</td>
+<td>104</td>
+<td style='background-color:#CCFF99'>105.70</td>
+</tr>
+<tr><td> #34</td><td>79</td><td>6</td>
+<td>Mark Ingram</td><td>NO</td>
+<td>23</td><td>RB</td>
+<td>7</td>
+<td>82.6</td>
+<td>153</td>
+<td>605</td>
+<td>6</td>
+<td>1</td>
+<td>10</td>
+<td>79</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>35</td>
+<td>112</td>
+<td>102</td>
+<td style='background-color:#CCFF99'>104.40</td>
+</tr>
+<tr><td colspan='2'></td><td align='left'>Our sixth tier includes flex candidates, many enjoying significant upside. These players are expected to play a part-time/situational role for their respective teams, but each has a chance to earn an expanded role with strong play.<br/><br/>Following six productive seasons with the Giants, Bradshaw heads to Indianapolis where he takes over as the Colts’ lead back. A superior rusher, receiver and especially pass blocker to Vick Ballard, Bradshaw shouldn’t have much trouble staying atop the depth chart as long as his troublesome foot doesn’t cause additional problems...Ball is expected to take over as Denver’s lead back. He’ll have competition for snaps, but Ball is a better player than Knowshon Moreno, and can handle a much-larger role than scatback Ronnie Hillman.<br/><br/>Vereen won’t get much work inside-the-five, but he’s all but locked into a majority of the passing down snaps. He’s a good bet to finish top-five among running backs in receptions...Ingram finally started to come on during the second half of the 2012 season, but his short-yardage/early-down role is unlikely to change going forward. He’s plenty talented, but his ceiling is low as long as he’s in his current situation.<br/><br/>Following what was basically a lost season due to a torn ACL back in 2011, Mendenhall is currently the favorite to win Arizona’s lead back job. He’s only 27 and has a history of strong play in a workhorse role under Bruce Arians...In 2012, Williams struggled to find more than a dozen or so snaps when Jonathan Stewart and Mike Tolbert are both active. Currently, Stewart is out indefinitely, which puts Williams in position to lead the Carolina backfield in 2013. His ceiling is capped by Stewart's eventual return.<br/><br/>Brown is competing with sophomore David Wilson for snaps in the Giants' backfield. He was excellent in a small sample of work during the 2012 season (5.3 YPC), and figures to, at least, help out near the goal line…Bell isn’t the most-talented rookie tailback, but he couldn’t have landed in a better situation in terms of opportunity. He’s a capable three-down back and has little to no competition for the Steelers’ lead back gig. His only roadblock will be a foot injury that will delay the start of his career.</td><td colspan='18'></td></tr>
+<tr>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Rank</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Overall</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tier</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Player</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tm</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>AGE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Pos</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>BYE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ADP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RUTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RCTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FMBL</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>KRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>TDO</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PPR</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>62S</th>
+</tr>
+<tr><td> #35</td><td>80</td><td>7</td>
+<td>Ronnie Hillman</td><td>DEN</td>
+<td>21</td><td>RB</td>
+<td>9</td>
+<td>93.3</td>
+<td>125</td>
+<td>503</td>
+<td>4</td>
+<td>0</td>
+<td>21</td>
+<td>176</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>29</td>
+<td>117</td>
+<td>96</td>
+<td style='background-color:#CCFF99'>97.90</td>
+</tr>
+<tr><td> #36</td><td>81</td><td>7</td>
+<td>Ben Tate</td><td>HOU</td>
+<td>25</td><td>RB</td>
+<td>8</td>
+<td>102.5</td>
+<td>132</td>
+<td>605</td>
+<td>4</td>
+<td>1</td>
+<td>13</td>
+<td>104</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>23</td>
+<td>106</td>
+<td>93</td>
+<td style='background-color:#CCFF99'>94.90</td>
+</tr>
+<tr><td> #37</td><td>102</td><td>7</td>
+<td>Isaiah Pead</td><td>STL</td>
+<td>23</td><td>RB</td>
+<td>11</td>
+<td>148.9</td>
+<td>129</td>
+<td>564</td>
+<td>2</td>
+<td>1</td>
+<td>24</td>
+<td>197</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+<td>116</td>
+<td>92</td>
+<td style='background-color:#CCFF99'>94.10</td>
+</tr>
+<tr><td> #38</td><td>103</td><td>7</td>
+<td>Bernard Pierce</td><td>BAL</td>
+<td>23</td><td>RB</td>
+<td>8</td>
+<td>104.0</td>
+<td>126</td>
+<td>565</td>
+<td>4</td>
+<td>1</td>
+<td>12</td>
+<td>95</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>24</td>
+<td>101</td>
+<td>89</td>
+<td style='background-color:#CCFF99'>90.00</td>
+</tr>
+<tr><td> #39</td><td>108</td><td>7</td>
+<td>Jonathan Dwyer</td><td>PIT</td>
+<td>24</td><td>RB</td>
+<td>5</td>
+<td>138.0</td>
+<td>145</td>
+<td>601</td>
+<td>3</td>
+<td>0</td>
+<td>13</td>
+<td>105</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+<td>100</td>
+<td>87</td>
+<td style='background-color:#CCFF99'>88.60</td>
+</tr>
+<tr><td> #40</td><td>109</td><td>7</td>
+<td>Jonathan Stewart</td><td>CAR</td>
+<td>26</td><td>RB</td>
+<td>4</td>
+<td>117.8</td>
+<td>107</td>
+<td>495</td>
+<td>3</td>
+<td>2</td>
+<td>22</td>
+<td>129</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>23</td>
+<td>106</td>
+<td>84</td>
+<td style='background-color:#CCFF99'>86.40</td>
+</tr>
+<tr><td> #41</td><td>116</td><td>7</td>
+<td>BenJarvus Green-Ellis</td><td>CIN</td>
+<td>28</td><td>RB</td>
+<td>12</td>
+<td>87.3</td>
+<td>135</td>
+<td>527</td>
+<td>4</td>
+<td>1</td>
+<td>10</td>
+<td>81</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>23</td>
+<td>93</td>
+<td>83</td>
+<td style='background-color:#CCFF99'>84.80</td>
+</tr>
+<tr><td> #42</td><td>132</td><td>7</td>
+<td>Danny Woodhead</td><td>SD</td>
+<td>28</td><td>RB</td>
+<td>8</td>
+<td>111.6</td>
+<td>86</td>
+<td>350</td>
+<td>2</td>
+<td>0</td>
+<td>33</td>
+<td>281</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>51</td>
+<td>17</td>
+<td>113</td>
+<td>80</td>
+<td style='background-color:#CCFF99'>81.10</td>
+</tr>
+<tr><td> #43</td><td>133</td><td>7</td>
+<td>Le'Veon Bell</td><td>PIT</td>
+<td>21</td><td>RB</td>
+<td>5</td>
+<td>54.7</td>
+<td>105</td>
+<td>441</td>
+<td>3</td>
+<td>1</td>
+<td>15</td>
+<td>125</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>22</td>
+<td>93</td>
+<td>78</td>
+<td style='background-color:#CCFF99'>80.60</td>
+</tr>
+<tr><td> #44</td><td>135</td><td>7</td>
+<td>Fred Jackson</td><td>BUF</td>
+<td>32</td><td>RB</td>
+<td>12</td>
+<td>104.6</td>
+<td>98</td>
+<td>402</td>
+<td>3</td>
+<td>0</td>
+<td>17</td>
+<td>139</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>22</td>
+<td>92</td>
+<td>75</td>
+<td style='background-color:#CCFF99'>78.10</td>
+</tr>
+<tr><td> #45</td><td>136</td><td>7</td>
+<td>Jacquizz Rodgers</td><td>ATL</td>
+<td>23</td><td>RB</td>
+<td>6</td>
+<td>134.3</td>
+<td>72</td>
+<td>279</td>
+<td>2</td>
+<td>0</td>
+<td>36</td>
+<td>289</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>999</td>
+<td>18</td>
+<td>109</td>
+<td>73</td>
+<td style='background-color:#CCFF99'>74.80</td>
+</tr>
+<tr><td> #46</td><td>137</td><td>7</td>
+<td>Pierre Thomas</td><td>NO</td>
+<td>28</td><td>RB</td>
+<td>7</td>
+<td>124.9</td>
+<td>90</td>
+<td>387</td>
+<td>2</td>
+<td>0</td>
+<td>21</td>
+<td>165</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>18</td>
+<td>93</td>
+<td>72</td>
+<td style='background-color:#CCFF99'>73.20</td>
+</tr>
+<tr><td> #47</td><td>138</td><td>7</td>
+<td>Bryce Brown</td><td>PHI</td>
+<td>22</td><td>RB</td>
+<td>12</td>
+<td>120.2</td>
+<td>107</td>
+<td>479</td>
+<td>3</td>
+<td>1</td>
+<td>10</td>
+<td>79</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>16</td>
+<td>80</td>
+<td>70</td>
+<td style='background-color:#CCFF99'>73.80</td>
+</tr>
+<tr><td> #48</td><td>139</td><td>7</td>
+<td>Vick Ballard</td><td>IND</td>
+<td>23</td><td>RB</td>
+<td>8</td>
+<td>114.3</td>
+<td>108</td>
+<td>421</td>
+<td>3</td>
+<td>0</td>
+<td>13</td>
+<td>104</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+<td>82</td>
+<td>69</td>
+<td style='background-color:#CCFF99'>70.50</td>
+</tr>
+<tr><td> #49</td><td>150</td><td>7</td>
+<td>Michael Bush</td><td>CHI</td>
+<td>29</td><td>RB</td>
+<td>8</td>
+<td>155.9</td>
+<td>89</td>
+<td>343</td>
+<td>4</td>
+<td>0</td>
+<td>13</td>
+<td>106</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>23</td>
+<td>80</td>
+<td>67</td>
+<td style='background-color:#CCFF99'>68.90</td>
+</tr>
+<tr><td> #50</td><td>151</td><td>7</td>
+<td>Daniel Thomas</td><td>MIA</td>
+<td>25</td><td>RB</td>
+<td>6</td>
+<td>147.2</td>
+<td>103</td>
+<td>375</td>
+<td>3</td>
+<td>0</td>
+<td>16</td>
+<td>127</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+<td>82</td>
+<td>66</td>
+<td style='background-color:#CCFF99'>68.20</td>
+</tr>
+<tr><td> #51</td><td>152</td><td>7</td>
+<td>Shonn Greene</td><td>TEN</td>
+<td>28</td><td>RB</td>
+<td>8</td>
+<td>139.3</td>
+<td>93</td>
+<td>376</td>
+<td>4</td>
+<td>0</td>
+<td>7</td>
+<td>55</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>23</td>
+<td>72</td>
+<td>65</td>
+<td style='background-color:#CCFF99'>67.10</td>
+</tr>
+<tr><td> #52</td><td>153</td><td>7</td>
+<td>Stepfan Taylor</td><td>ARZ</td>
+<td>22</td><td>RB</td>
+<td>9</td>
+<td>180.3</td>
+<td>89</td>
+<td>342</td>
+<td>3</td>
+<td>0</td>
+<td>10</td>
+<td>83</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>23</td>
+<td>75</td>
+<td>65</td>
+<td style='background-color:#CCFF99'>66.50</td>
+</tr>
+<tr><td> #53</td><td>154</td><td>7</td>
+<td>Mikel Leshoure</td><td>DET</td>
+<td>23</td><td>RB</td>
+<td>9</td>
+<td>122.6</td>
+<td>88</td>
+<td>340</td>
+<td>4</td>
+<td>0</td>
+<td>10</td>
+<td>79</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>23</td>
+<td>74</td>
+<td>64</td>
+<td style='background-color:#CCFF99'>65.90</td>
+</tr>
+<tr><td> #54</td><td>157</td><td>7</td>
+<td>Knowshon Moreno</td><td>DEN</td>
+<td>26</td><td>RB</td>
+<td>9</td>
+<td>161.4</td>
+<td>65</td>
+<td>247</td>
+<td>2</td>
+<td>0</td>
+<td>28</td>
+<td>224</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+<td>91</td>
+<td>63</td>
+<td style='background-color:#CCFF99'>65.10</td>
+</tr>
+<tr><td> #55</td><td>158</td><td>7</td>
+<td>Johnathan Franklin</td><td>GB</td>
+<td>23</td><td>RB</td>
+<td>4</td>
+<td>128.9</td>
+<td>102</td>
+<td>433</td>
+<td>1</td>
+<td>1</td>
+<td>21</td>
+<td>153</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td>84</td>
+<td>63</td>
+<td style='background-color:#CCFF99'>64.60</td>
+</tr>
+<tr><td> #56</td><td>159</td><td>7</td>
+<td>DuJuan Harris</td><td>GB</td>
+<td>24</td><td>RB</td>
+<td>4</td>
+<td>172.1</td>
+<td>85</td>
+<td>352</td>
+<td>2</td>
+<td>0</td>
+<td>13</td>
+<td>108</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+<td>75</td>
+<td>62</td>
+<td style='background-color:#CCFF99'>64.00</td>
+</tr>
+<tr><td colspan='2'></td><td align='left'>Handcuffs make up a majority of our seventh tier. Several of these players would have significant fantasy value if there happened to be an injury above them on the depth chart. Snatch these players up in the later rounds and stash them on your bench.<br/><br/>Hillman is atop the Denver depth chart at tailback, but he'll face plenty of heat for reps from Montee Ball and Knowshon Moreno...Tate heads into a contract season, giving him plenty of incentive to bounce back from a disappointing 2012 campaign. He would see enough work to warrant RB1 consideration if Arian Foster were to miss action…Pead is suspended for a game and already lost the Rams' starting job to Daryl Richardson. He's a strong talent, but hasn't translated it into a full-time role yet.<br/><br/>Pierce is a legitimate threat to Ray Rice for early-down snaps after a strong rookie season in which he averaged 5.0 YPC. He’s an elite running back handcuff…Stewart remains out with an injury, which puts Week 1 in serious doubt. Either way, he figures to return to a committee with DeAngelo Williams and Mike Tolbert...Although Green-Ellis isn't too flashy, but was a solid producer on nearly 300 carries during his first season with the Bengals. With Gio Bernard in the picture, however, his touches are sure to take a dive. The rookie figures to work in a complimentary role early on, but he’s the better talent and will eventually steal the starting job away.<br/><br/>After spending three seasons as New England's passing-down specialist, Woodhead heads to San Diego where he’ll do the same...Jackson is 32 and has missed 12 games due to injury over the last two seasons. He’s nothing more than a handcuff and complimentary back to C.J. Spiller…A passing-down specialist, Rodgers has struggled between the tackles during his first two years in the league. He'll remain a part-time player behind workhorse Steven Jackson.<br/><br/>Pierre Thomas is the Saints' No. 2 back in both early and passing-down situations — and is excellent in both capacities — but he doesn’t get enough reps to warrant real fantasy relevance...Brown has a ton of talent, and Chip Kelly will call plenty of run plays. Of course, his upside is capped by the presence of one of the game's top running back talents in LeSean McCoy...Ballard was solid as the Colts’ lead back down the stretch last season, but the team decided to upgrade to Ahmad Bradshaw this offseason. Ballard will settle into a situational role.<br/><br/>Bush isn’t going to see many snaps behind a healthy Matt Forte, but he's the team’s primary goal line back...Daniel Thomas is expected to be on the short end of a committee with Lamar Miller. Miller is the far superior talent and figures to take on a larger load of the backfield snaps as the season progresses...Greene heads to Tennessee where he'll work as a well-paid situational bruiser behind Chris Johnson.<br/><br/>Ryan Williams continues to struggle with injuries, which makes Taylor, a rookie, the handcuff to own in Arizona. If Rashard Mendenhall misses action, Taylor will benefit most…Leshoure is no longer Detroit's clear-cut feature back after the team's addition of Reggie Bush. Still only 23, there is some upside here, but Leshoure seems destined for a short-yardage/goal line role...Moreno is expected to play a situational, third down role in Denver, but he's currently behind Hillman and Ball.<br/><br/>Franklin and Harris are competing for snaps in Green Bay. Eddie Lacy has taken the starting job and run with it. He figures to work on all three downs, but Franklin will push for a change-of-pace role. Harris will chip in on early downs.</td><td colspan='18'></td></tr>
+<tr>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Rank</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Overall</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tier</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Player</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tm</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>AGE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Pos</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>BYE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ADP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RUTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ATT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>YDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>RCTD</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>100+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FMBL</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>KRTYDS</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>TDO</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PPR</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>62S</th>
+</tr>
+<tr><td> #57</td><td>164</td><td>8</td>
+<td>Joique Bell</td><td>DET</td>
+<td>27</td><td>RB</td>
+<td>9</td>
+<td>155.6</td>
+<td>55</td>
+<td>254</td>
+<td>2</td>
+<td>0</td>
+<td>23</td>
+<td>189</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>377</td>
+<td>18</td>
+<td>84</td>
+<td>61</td>
+<td style='background-color:#CCFF99'>62.30</td>
+</tr>
+<tr><td> #58</td><td>167</td><td>8</td>
+<td>Robert Turbin</td><td>SEA</td>
+<td>23</td><td>RB</td>
+<td>12</td>
+<td>160.7</td>
+<td>60</td>
+<td>254</td>
+<td>2</td>
+<td>0</td>
+<td>20</td>
+<td>177</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>18</td>
+<td>80</td>
+<td>60</td>
+<td style='background-color:#CCFF99'>61.10</td>
+</tr>
+<tr><td> #59</td><td>168</td><td>8</td>
+<td>Roy Helu</td><td>WAS</td>
+<td>24</td><td>RB</td>
+<td>5</td>
+<td>157.8</td>
+<td>66</td>
+<td>267</td>
+<td>2</td>
+<td>0</td>
+<td>19</td>
+<td>154</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>18</td>
+<td>78</td>
+<td>59</td>
+<td style='background-color:#CCFF99'>60.10</td>
+</tr>
+<tr><td> #60</td><td>169</td><td>8</td>
+<td>Christine Michael</td><td>SEA</td>
+<td>22</td><td>RB</td>
+<td>12</td>
+<td>165.5</td>
+<td>58</td>
+<td>290</td>
+<td>2</td>
+<td>0</td>
+<td>15</td>
+<td>118</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>18</td>
+<td>73</td>
+<td>58</td>
+<td style='background-color:#CCFF99'>58.80</td>
+</tr>
+<tr><td> #61</td><td>170</td><td>8</td>
+<td>Zac Stacy</td><td>STL</td>
+<td>22</td><td>RB</td>
+<td>11</td>
+<td>153.2</td>
+<td>88</td>
+<td>352</td>
+<td>3</td>
+<td>0</td>
+<td>6</td>
+<td>43</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+<td>62</td>
+<td>56</td>
+<td style='background-color:#CCFF99'>57.50</td>
+</tr>
+<tr><td> #62</td><td>171</td><td>8</td>
+<td>Kendall Hunter</td><td>SF</td>
+<td>24</td><td>RB</td>
+<td>9</td>
+<td>172.8</td>
+<td>75</td>
+<td>323</td>
+<td>3</td>
+<td>0</td>
+<td>6</td>
+<td>45</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>18</td>
+<td>60</td>
+<td>54</td>
+<td style='background-color:#CCFF99'>54.80</td>
+</tr>
+<tr><td> #63</td><td>172</td><td>8</td>
+<td>Toby Gerhart</td><td>MIN</td>
+<td>26</td><td>RB</td>
+<td>5</td>
+<td>164.2</td>
+<td>60</td>
+<td>243</td>
+<td>2</td>
+<td>0</td>
+<td>20</td>
+<td>164</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+<td>71</td>
+<td>51</td>
+<td style='background-color:#CCFF99'>52.70</td>
+</tr>
+<tr><td> #64</td><td>173</td><td>8</td>
+<td>Bilal Powell</td><td>NYJ</td>
+<td>24</td><td>RB</td>
+<td>10</td>
+<td>144.9</td>
+<td>40</td>
+<td>184</td>
+<td>2</td>
+<td>0</td>
+<td>17</td>
+<td>150</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+<td>67</td>
+<td>50</td>
+<td style='background-color:#CCFF99'>51.40</td>
+</tr>
+<tr><td> #65</td><td>194</td><td>8</td>
+<td>Ryan Williams</td><td>ARZ</td>
+<td>23</td><td>RB</td>
+<td>9</td>
+<td>156.4</td>
+<td>84</td>
+<td>309</td>
+<td>2</td>
+<td>0</td>
+<td>13</td>
+<td>98</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+<td>63</td>
+<td>50</td>
+<td style='background-color:#CCFF99'>52.70</td>
+</tr>
+<tr><td> #66</td><td>-</td><td>8</td>
+<td>Mike Tolbert</td><td>CAR</td>
+<td>27</td><td>RB</td>
+<td>4</td>
+<td>174.3</td>
+<td>40</td>
+<td>148</td>
+<td>4</td>
+<td>0</td>
+<td>15</td>
+<td>121</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>23</td>
+<td>64</td>
+<td>49</td>
+<td style='background-color:#CCFF99'>50.90</td>
+</tr>
+<tr><td> #67</td><td>-</td><td>8</td>
+<td>La'Rod Stephens-Howling</td><td>PIT</td>
+<td>26</td><td>RB</td>
+<td>5</td>
+<td>178.0</td>
+<td>44</td>
+<td>162</td>
+<td>1</td>
+<td>0</td>
+<td>21</td>
+<td>170</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+<td>65</td>
+<td>44</td>
+<td style='background-color:#CCFF99'>45.20</td>
+</tr>
+<tr><td> #68</td><td>-</td><td>8</td>
+<td>Mike James</td><td>TB</td>
+<td>113</td><td>RB</td>
+<td>5</td>
+<td>175.3</td>
+<td>70</td>
+<td>279</td>
+<td>2</td>
+<td>0</td>
+<td>6</td>
+<td>47</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>12</td>
+<td>49</td>
+<td>43</td>
+<td style='background-color:#CCFF99'>44.60</td>
+</tr>
+<tr><td> #69</td><td>-</td><td>8</td>
+<td>Justin Forsett</td><td>JAC</td>
+<td>27</td><td>RB</td>
+<td>9</td>
+<td>183.4</td>
+<td>60</td>
+<td>323</td>
+<td>1</td>
+<td>0</td>
+<td>7</td>
+<td>55</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td>49</td>
+<td>42</td>
+<td style='background-color:#CCFF99'>43.80</td>
+</tr>
+<tr><td> #70</td><td>-</td><td>8</td>
+<td>LaMichael James</td><td>SF</td>
+<td>23</td><td>RB</td>
+<td>9</td>
+<td>119.1</td>
+<td>55</td>
+<td>258</td>
+<td>1</td>
+<td>0</td>
+<td>10</td>
+<td>79</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>19</td>
+<td>988</td>
+<td>6</td>
+<td>48</td>
+<td>38</td>
+<td style='background-color:#CCFF99'>39.70</td>
+</tr>
+<tr><td> #71</td><td>-</td><td>8</td>
+<td>Knile Davis</td><td>KC</td>
+<td>21</td><td>RB</td>
+<td>10</td>
+<td>164.7</td>
+<td>69</td>
+<td>263</td>
+<td>1</td>
+<td>0</td>
+<td>9</td>
+<td>71</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td>47</td>
+<td>38</td>
+<td style='background-color:#CCFF99'>39.40</td>
+</tr>
+<tr><td> #72</td><td>-</td><td>8</td>
+<td>Chris Polk</td><td>PHI</td>
+<td>23</td><td>RB</td>
+<td>12</td>
+<td>181.3</td>
+<td>60</td>
+<td>245</td>
+<td>1</td>
+<td>0</td>
+<td>10</td>
+<td>80</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td>48</td>
+<td>38</td>
+<td style='background-color:#CCFF99'>38.50</td>
+</tr>
+<tr><td> #73</td><td>-</td><td>8</td>
+<td>Denard Robinson</td><td>JAC</td>
+<td>22</td><td>RB</td>
+<td>9</td>
+<td>174.0</td>
+<td>32</td>
+<td>144</td>
+<td>0</td>
+<td>0</td>
+<td>19</td>
+<td>171</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>18</td>
+<td>941</td>
+<td>6</td>
+<td>56</td>
+<td>37</td>
+<td style='background-color:#CCFF99'>37.50</td>
+</tr>
+<tr><td> #74</td><td>-</td><td>8</td>
+<td>Isaac Redman</td><td>PIT</td>
+<td>28</td><td>RB</td>
+<td>5</td>
+<td>162.1</td>
+<td>58</td>
+<td>243</td>
+<td>1</td>
+<td>0</td>
+<td>9</td>
+<td>78</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td>45</td>
+<td>36</td>
+<td style='background-color:#CCFF99'>38.10</td>
+</tr>
+<tr><td> #75</td><td>-</td><td>8</td>
+<td>Rashad Jennings</td><td>OAK</td>
+<td>28</td><td>RB</td>
+<td>7</td>
+<td>170.8</td>
+<td>60</td>
+<td>245</td>
+<td>1</td>
+<td>0</td>
+<td>8</td>
+<td>58</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td>43</td>
+<td>35</td>
+<td style='background-color:#CCFF99'>36.30</td>
+</tr>
+<tr><td> #76</td><td>-</td><td>8</td>
+<td>Marcel Reece</td><td>OAK</td>
+<td>28</td><td>RB</td>
+<td>7</td>
+<td>166.8</td>
+<td>22</td>
+<td>88</td>
+<td>0</td>
+<td>0</td>
+<td>22</td>
+<td>200</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td>55</td>
+<td>33</td>
+<td style='background-color:#CCFF99'>34.80</td>
+</tr>
+<tr><td> #77</td><td>-</td><td>8</td>
+<td>Lance Dunbar</td><td>DAL</td>
+<td>23</td><td>RB</td>
+<td>11</td>
+<td>178.3</td>
+<td>47</td>
+<td>178</td>
+<td>2</td>
+<td>0</td>
+<td>6</td>
+<td>45</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+<td>38</td>
+<td>32</td>
+<td style='background-color:#CCFF99'>34.30</td>
+</tr>
+<tr><td> #78</td><td>-</td><td>8</td>
+<td>Latavius Murray</td><td>OAK</td>
+<td>113</td><td>RB</td>
+<td>7</td>
+<td>177.6</td>
+<td>49</td>
+<td>190</td>
+<td>1</td>
+<td>0</td>
+<td>10</td>
+<td>79</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>5</td>
+<td>41</td>
+<td>31</td>
+<td style='background-color:#CCFF99'>32.90</td>
+</tr>
+<tr><td> #79</td><td>-</td><td>8</td>
+<td>Mike Goodson</td><td>NYJ</td>
+<td>26</td><td>RB</td>
+<td>10</td>
+<td>-</td>
+<td>42</td>
+<td>170</td>
+<td>1</td>
+<td>0</td>
+<td>11</td>
+<td>85</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>78</td>
+<td>6</td>
+<td>42</td>
+<td>31</td>
+<td style='background-color:#CCFF99'>31.50</td>
+</tr>
+<tr><td> #80</td><td>-</td><td>8</td>
+<td>Mike Gillislee</td><td>MIA</td>
+<td>22</td><td>RB</td>
+<td>6</td>
+<td>-</td>
+<td>45</td>
+<td>170</td>
+<td>1</td>
+<td>0</td>
+<td>5</td>
+<td>40</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td>32</td>
+<td>27</td>
+<td style='background-color:#CCFF99'>27.00</td>
+</tr>
+<tr><td> #81</td><td>-</td><td>8</td>
+<td>Joseph Randle</td><td>DAL</td>
+<td>21</td><td>RB</td>
+<td>11</td>
+<td>167.7</td>
+<td>41</td>
+<td>155</td>
+<td>1</td>
+<td>0</td>
+<td>7</td>
+<td>58</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td>33</td>
+<td>26</td>
+<td style='background-color:#CCFF99'>27.30</td>
+</tr>
+<tr><td> #82</td><td>-</td><td>8</td>
+<td>LeGarrette Blount</td><td>NE</td>
+<td>26</td><td>RB</td>
+<td>10</td>
+<td>158.6</td>
+<td>20</td>
+<td>190</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td>28</td>
+<td>26</td>
+<td style='background-color:#CCFF99'>26.80</td>
+</tr>
+<tr><td> #83</td><td>-</td><td>8</td>
+<td>Donald Brown</td><td>IND</td>
+<td>26</td><td>RB</td>
+<td>8</td>
+<td>-</td>
+<td>31</td>
+<td>124</td>
+<td>1</td>
+<td>0</td>
+<td>5</td>
+<td>36</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td>26</td>
+<td>21</td>
+<td style='background-color:#CCFF99'>22.00</td>
+</tr>
+<tr><td> #84</td><td>-</td><td>8</td>
+<td>Joe McKnight</td><td>NYJ</td>
+<td>25</td><td>RB</td>
+<td>10</td>
+<td>-</td>
+<td>30</td>
+<td>118</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>17</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td>20</td>
+<td>18</td>
+<td style='background-color:#CCFF99'>19.50</td>
+</tr>
+<tr><td> #85</td><td>-</td><td>8</td>
+<td>Brandon Bolden</td><td>NE</td>
+<td>23</td><td>RB</td>
+<td>10</td>
+<td>177.5</td>
+<td>23</td>
+<td>108</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td>30</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+<td>13</td>
+<td style='background-color:#CCFF99'>13.80</td>
+</tr>
+<tr><td> #86</td><td>-</td><td>8</td>
+<td>Evan Royster</td><td>WAS</td>
+<td>25</td><td>RB</td>
+<td>5</td>
+<td>175.2</td>
+<td>21</td>
+<td>99</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td>31</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>49</td>
+<td>0</td>
+<td>16</td>
+<td>12</td>
+<td style='background-color:#CCFF99'>13.00</td>
+</tr>
+<tr><td> #87</td><td>-</td><td>8</td>
+<td>Brian Leonard</td><td>TB</td>
+<td>29</td><td>RB</td>
+<td>5</td>
+<td>-</td>
+<td>20</td>
+<td>75</td>
+<td>0</td>
+<td>0</td>
+<td>7</td>
+<td>56</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>19</td>
+<td>12</td>
+<td style='background-color:#CCFF99'>13.10</td>
+</tr>
+<tr><td> #88</td><td>-</td><td>8</td>
+<td>Brandon Jackson</td><td>CLE</td>
+<td>27</td><td>RB</td>
+<td>10</td>
+<td>172.5</td>
+<td>25</td>
+<td>98</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td>32</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>16</td>
+<td>12</td>
+<td style='background-color:#CCFF99'>13.00</td>
+</tr>
+<tr><td> #89</td><td>-</td><td>8</td>
+<td>Montario Hardesty</td><td>CLE</td>
+<td>26</td><td>RB</td>
+<td>10</td>
+<td>-</td>
+<td>20</td>
+<td>75</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>16</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>10</td>
+<td>8</td>
+<td style='background-color:#CCFF99'>9.10</td>
+</tr>
+<tr><td colspan='2'></td><td align='left'></td><td colspan='18'></td></tr>
+</table>
+</table></body></html>

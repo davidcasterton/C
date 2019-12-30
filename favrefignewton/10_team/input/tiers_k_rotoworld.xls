@@ -1,0 +1,595 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel"xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1252\"><meta name=ProgId content=Excel.Sheet><meta name=Generator content="Microsoft Excel 9\"><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Positional Tiers k</x:Name><x:WorksheetOptions><x:Selected/><x:ProtectContents>False</x:ProtectContents><x:ProtectObjects>False</x:ProtectObjects><x:ProtectScenarios>False</x:ProtectScenarios></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets><x:ProtectStructure>False</x:ProtectStructure><x:ProtectWindows>False</x:ProtectWindows></x:ExcelWorkbook></xml><![endif]--></head><body><table><table cellspacing='1' cellpadding='1' border='1'>
+<tr><td colspan='21' bgCOLOR='#007922'><b><font color=#FFFFFF>WWW.ROTOWORLD.COM - Tiered Rankings and Projections for Kickers</font></b></td></tr>
+<tr>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Rank</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tier</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Player</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tm</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>AGE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Pos</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>BYE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ADP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PAT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FG</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>1-29</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>30-39</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>40-49</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>50+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>TDO</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PPR</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>62S</th>
+</tr>
+<tr><td> #1</td><td>1</td>
+<td>Matt Bryant</td><td>ATL</td>
+<td>38</td><td>K</td>
+<td>6</td>
+<td>153.2</td>
+<td>43</td>
+<td>32/36</td>
+<td>14/14</td>
+<td>8/9</td>
+<td>7/9</td>
+<td>3/3</td>
+<td>152</td>
+<td>152</td>
+<td>152</td>
+<td style='background-color:#CCFF99'>152.00</td>
+</tr>
+<tr><td> #2</td><td>1</td>
+<td>Blair Walsh</td><td>MIN</td>
+<td>23</td><td>K</td>
+<td>5</td>
+<td>149.2</td>
+<td>35</td>
+<td>33/36</td>
+<td>14/14</td>
+<td>7/8</td>
+<td>7/9</td>
+<td>5/6</td>
+<td>151</td>
+<td>151</td>
+<td>151</td>
+<td style='background-color:#CCFF99'>151.00</td>
+</tr>
+<tr><td> #3</td><td>1</td>
+<td>Stephen Gostkowski</td><td>NE</td>
+<td>29</td><td>K</td>
+<td>10</td>
+<td>149.6</td>
+<td>54</td>
+<td>28/34</td>
+<td>13/13</td>
+<td>7/8</td>
+<td>7/10</td>
+<td>1/2</td>
+<td>147</td>
+<td>147</td>
+<td>147</td>
+<td style='background-color:#CCFF99'>147.00</td>
+</tr>
+<tr><td> #4</td><td>1</td>
+<td>Matt Prater</td><td>DEN</td>
+<td>29</td><td>K</td>
+<td>9</td>
+<td>150.9</td>
+<td>48</td>
+<td>27/32</td>
+<td>9/9</td>
+<td>9/10</td>
+<td>6/8</td>
+<td>3/5</td>
+<td>141</td>
+<td>141</td>
+<td>141</td>
+<td style='background-color:#CCFF99'>141.00</td>
+</tr>
+<tr><td> #5</td><td>1</td>
+<td>Justin Tucker</td><td>BAL</td>
+<td>23</td><td>K</td>
+<td>8</td>
+<td>167.4</td>
+<td>39</td>
+<td>29/32</td>
+<td>10/10</td>
+<td>8/8</td>
+<td>7/9</td>
+<td>4/4</td>
+<td>141</td>
+<td>141</td>
+<td>141</td>
+<td style='background-color:#CCFF99'>141.00</td>
+</tr>
+<tr><td> #6</td><td>1</td>
+<td>Sebastian Janikowski</td><td>OAK</td>
+<td>35</td><td>K</td>
+<td>7</td>
+<td>170.7</td>
+<td>31</td>
+<td>31/36</td>
+<td>13/13</td>
+<td>7/7</td>
+<td>6/8</td>
+<td>5/8</td>
+<td>140</td>
+<td>140</td>
+<td>140</td>
+<td style='background-color:#CCFF99'>140.00</td>
+</tr>
+<tr><td colspan='2'></td><td align='left'>There isn't much surprise in our top tier this season. Walsh, Bryant, and Gostkowski finished as the top three kickers last season, and they remain the top options this season. Bryant and Gostkowski are more steady producers, while Walsh is more of a weekly boom or bust play. As Walsh showed us last season with 10-of-10 from beyond 50 yards, his ceiling is enormous. He also led all kickers last season with 35 field goals made.<br><br>Prater may not offer the biggest of legs, but like Bryant and Gostkowski, he's in one of the league's best offenses and will put up consistent points over the course of the season. Tucker is another one of the league's young guns at kicker. He was one of only seven kickers to top 30 made field goals in 2012, and has a strong chance of reaching that plateau again this season.<br><br>And that leaves us with "Sea Bass" Janikowski, who has topped 30 made field goals in each of his last three season. There are few kickers in the league with a bigger leg, but Janikowski has also become a much more accurate kicker over the past few seasons, topping 90 percent accuracy for the first time in his career last season.</td><td colspan='18'></td></tr>
+<tr>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Rank</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tier</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Player</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tm</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>AGE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Pos</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>BYE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ADP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PAT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FG</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>1-29</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>30-39</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>40-49</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>50+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>TDO</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PPR</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>62S</th>
+</tr>
+<tr><td> #7</td><td>2</td>
+<td>David Akers</td><td>DET</td>
+<td>38</td><td>K</td>
+<td>9</td>
+<td>181.9</td>
+<td>42</td>
+<td>29/38</td>
+<td>14/14</td>
+<td>7/8</td>
+<td>6/9</td>
+<td>2/4</td>
+<td>139</td>
+<td>139</td>
+<td>139</td>
+<td style='background-color:#CCFF99'>139.00</td>
+</tr>
+<tr><td> #8</td><td>2</td>
+<td>Josh Brown</td><td>NYG</td>
+<td>34</td><td>K</td>
+<td>9</td>
+<td>189.2</td>
+<td>43</td>
+<td>29/33</td>
+<td>15/15</td>
+<td>7/8</td>
+<td>5/7</td>
+<td>2/3</td>
+<td>139</td>
+<td>139</td>
+<td>139</td>
+<td style='background-color:#CCFF99'>139.00</td>
+</tr>
+<tr><td> #9</td><td>2</td>
+<td>Randy Bullock</td><td>HOU</td>
+<td>23</td><td>K</td>
+<td>8</td>
+<td>181.9</td>
+<td>39</td>
+<td>29/34</td>
+<td>12/12</td>
+<td>8/9</td>
+<td>6/8</td>
+<td>3/5</td>
+<td>138</td>
+<td>138</td>
+<td>138</td>
+<td style='background-color:#CCFF99'>138.00</td>
+</tr>
+<tr><td> #10</td><td>2</td>
+<td>Greg Zuerlein</td><td>STL</td>
+<td>25</td><td>K</td>
+<td>11</td>
+<td>175.2</td>
+<td>34</td>
+<td>28/34</td>
+<td>9/9</td>
+<td>5/7</td>
+<td>9/10</td>
+<td>5/7</td>
+<td>137</td>
+<td>137</td>
+<td>137</td>
+<td style='background-color:#CCFF99'>137.00</td>
+</tr>
+<tr><td> #11</td><td>2</td>
+<td>Kai Forbath</td><td>WAS</td>
+<td>25</td><td>K</td>
+<td>5</td>
+<td>188.0</td>
+<td>38</td>
+<td>27/31</td>
+<td>9/9</td>
+<td>6/8</td>
+<td>8/9</td>
+<td>4/4</td>
+<td>135</td>
+<td>135</td>
+<td>135</td>
+<td style='background-color:#CCFF99'>135.00</td>
+</tr>
+<tr><td> #12</td><td>2</td>
+<td>Dan Bailey</td><td>DAL</td>
+<td>25</td><td>K</td>
+<td>11</td>
+<td>172.5</td>
+<td>39</td>
+<td>28/32</td>
+<td>9/9</td>
+<td>10/10</td>
+<td>7/8</td>
+<td>2/4</td>
+<td>134</td>
+<td>134</td>
+<td>134</td>
+<td style='background-color:#CCFF99'>134.00</td>
+</tr>
+<tr><td> #14</td><td>2</td>
+<td>Garrett Hartley</td><td>NO</td>
+<td>27</td><td>K</td>
+<td>7</td>
+<td>177.7</td>
+<td>54</td>
+<td>22/27</td>
+<td>8/8</td>
+<td>6/8</td>
+<td>5/6</td>
+<td>3/4</td>
+<td>131</td>
+<td>131</td>
+<td>131</td>
+<td style='background-color:#CCFF99'>131.00</td>
+</tr>
+<tr><td> #15</td><td>2</td>
+<td>Phil Dawson</td><td>SF</td>
+<td>38</td><td>K</td>
+<td>9</td>
+<td>159.7</td>
+<td>46</td>
+<td>24/28</td>
+<td>8/8</td>
+<td>7/8</td>
+<td>6/7</td>
+<td>3/4</td>
+<td>130</td>
+<td>130</td>
+<td>130</td>
+<td style='background-color:#CCFF99'>130.00</td>
+</tr>
+<tr><td colspan='2'></td><td align='left'>Josh Brown leading off our second tier may have some scratching their heads, but the Giants cut ties with Lawrence Tynes in the offseason. Tynes was the No. 5 fantasy kicker last season, and we expect Brown to step right in to that level of production. Akers is no spring chicken, but the leg is still there, as his 63-yard bomb last season displayed. However, there's some cause for concern. Akers' accuracy dipped below 70 percent for the first time since the 1990s last season. Despite the accuracy issues, we like the fit for Akers' fantasy value, as the Lions proved a productive spot for Jason Hanson last season.<br><br>Bullock was a hot sleeper pick early in the fantasy draft season last year, but the rookie tore his groin in last August and spent the season on injured reserve. Touted as an "unflappable" kicker, Bullock will have no problem stepping right in to the starting job and has the chance to be this year's Blair Walsh.<br><br>Greg "Legatron" Zuerlein generated a lot of buzz last season due to his booming kicks, but his 23-of-31 field goals made led to some inconsistent fantasy production. While he possesses elite fantasy upside, he'll need to improve his accuracy before he can truly enter that conversation. Forbath stepped into the starting job in Week 6 last season, and put up very consistent numbers in his 11 games, with just two weeks where he scored less than seven fantasy points. Bailey managed a top-ten finish among fantasy kickers last season, and did it with 93.5 percent accuracy.<br><br>Connor Barth was a bit of a roller coaster ride last season. He posted nine games with double-digit fantasy points, but also scored four or less fantasy points five times. Still, he finished the year as the No. 8 fantasy kicker. Hartley returned from a hip injury last season, as wasn't quite the same as his 2010 self. He doesn't have an elite fantasy ceiling, but the Saints offense will ensure that Hartley still posts respectable fantasy numbers. Dawson has been one of the league's more accurate kickers over his career, but Cleveland offense didn't do much to help his cause. The 49ers bode much better for Dawson's fantasy value.</td><td colspan='18'></td></tr>
+<tr>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Rank</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tier</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Player</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tm</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>AGE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Pos</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>BYE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ADP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PAT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FG</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>1-29</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>30-39</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>40-49</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>50+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>TDO</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PPR</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>62S</th>
+</tr>
+<tr><td> #16</td><td>3</td>
+<td>Steven Hauschka</td><td>SEA</td>
+<td>28</td><td>K</td>
+<td>12</td>
+<td>184.8</td>
+<td>45</td>
+<td>24/29</td>
+<td>7/7</td>
+<td>9/10</td>
+<td>6/8</td>
+<td>2/4</td>
+<td>127</td>
+<td>127</td>
+<td>127</td>
+<td style='background-color:#CCFF99'>127.00</td>
+</tr>
+<tr><td> #17</td><td>3</td>
+<td>Caleb Sturgis</td><td>MIA</td>
+<td>24</td><td>K</td>
+<td>6</td>
+<td>190.3</td>
+<td>34</td>
+<td>26/32</td>
+<td>7/7</td>
+<td>7/8</td>
+<td>9/12</td>
+<td>3/5</td>
+<td>127</td>
+<td>127</td>
+<td>127</td>
+<td style='background-color:#CCFF99'>127.00</td>
+</tr>
+<tr><td> #18</td><td>3</td>
+<td>Josh Scobee</td><td>JAC</td>
+<td>31</td><td>K</td>
+<td>9</td>
+<td>-</td>
+<td>28</td>
+<td>27/32</td>
+<td>6/6</td>
+<td>8/9</td>
+<td>9/12</td>
+<td>4/5</td>
+<td>126</td>
+<td>126</td>
+<td>126</td>
+<td style='background-color:#CCFF99'>126.00</td>
+</tr>
+<tr><td> #19</td><td>3</td>
+<td>Mason Crosby</td><td>GB</td>
+<td>28</td><td>K</td>
+<td>4</td>
+<td>189.0</td>
+<td>50</td>
+<td>22/30</td>
+<td>6/6</td>
+<td>8/9</td>
+<td>6/8</td>
+<td>2/5</td>
+<td>126</td>
+<td>126</td>
+<td>126</td>
+<td style='background-color:#CCFF99'>126.00</td>
+</tr>
+<tr><td> #20</td><td>3</td>
+<td>Ryan Succop</td><td>KC</td>
+<td>26</td><td>K</td>
+<td>10</td>
+<td>190.8</td>
+<td>34</td>
+<td>26/33</td>
+<td>6/6</td>
+<td>9/11</td>
+<td>9/12</td>
+<td>2/3</td>
+<td>125</td>
+<td>125</td>
+<td>125</td>
+<td style='background-color:#CCFF99'>125.00</td>
+</tr>
+<tr><td> #21</td><td>3</td>
+<td>Nick Novak</td><td>SD</td>
+<td>32</td><td>K</td>
+<td>8</td>
+<td>189.4</td>
+<td>36</td>
+<td>25/30</td>
+<td>9/9</td>
+<td>6/7</td>
+<td>7/9</td>
+<td>3/5</td>
+<td>124</td>
+<td>124</td>
+<td>124</td>
+<td style='background-color:#CCFF99'>124.00</td>
+</tr>
+<tr><td> #22</td><td>3</td>
+<td>Jay Feely</td><td>ARZ</td>
+<td>37</td><td>K</td>
+<td>9</td>
+<td>191.6</td>
+<td>33</td>
+<td>26/32</td>
+<td>8/8</td>
+<td>8/9</td>
+<td>8/10</td>
+<td>2/3</td>
+<td>123</td>
+<td>123</td>
+<td>123</td>
+<td style='background-color:#CCFF99'>123.00</td>
+</tr>
+<tr><td> #23</td><td>3</td>
+<td>Adam Vinatieri</td><td>IND</td>
+<td>40</td><td>K</td>
+<td>8</td>
+<td>190.0</td>
+<td>37</td>
+<td>24/30</td>
+<td>7/7</td>
+<td>6/7</td>
+<td>8/10</td>
+<td>3/5</td>
+<td>123</td>
+<td>123</td>
+<td>123</td>
+<td style='background-color:#CCFF99'>123.00</td>
+</tr>
+<tr><td> #24</td><td>3</td>
+<td>Robbie Gould</td><td>CHI</td>
+<td>31</td><td>K</td>
+<td>8</td>
+<td>189.8</td>
+<td>34</td>
+<td>25/31</td>
+<td>8/8</td>
+<td>7/8</td>
+<td>7/10</td>
+<td>3/4</td>
+<td>122</td>
+<td>122</td>
+<td>122</td>
+<td style='background-color:#CCFF99'>122.00</td>
+</tr>
+<tr><td> #25</td><td>3</td>
+<td>Shaun Suisham</td><td>PIT</td>
+<td>31</td><td>K</td>
+<td>5</td>
+<td>189.2</td>
+<td>37</td>
+<td>25/30</td>
+<td>9/9</td>
+<td>7/8</td>
+<td>8/10</td>
+<td>1/3</td>
+<td>122</td>
+<td>122</td>
+<td>122</td>
+<td style='background-color:#CCFF99'>122.00</td>
+</tr>
+<tr><td> #26</td><td>3</td>
+<td>Alex Henery</td><td>PHI</td>
+<td>26</td><td>K</td>
+<td>12</td>
+<td>184.1</td>
+<td>36</td>
+<td>25/30</td>
+<td>8/8</td>
+<td>8/9</td>
+<td>8/9</td>
+<td>1/2</td>
+<td>121</td>
+<td>121</td>
+<td>121</td>
+<td style='background-color:#CCFF99'>121.00</td>
+</tr>
+<tr><td> #27</td><td>3</td>
+<td>Dustin Hopkins</td><td>BUF</td>
+<td>22</td><td>K</td>
+<td>12</td>
+<td>162.7</td>
+<td>37</td>
+<td>24/30</td>
+<td>8/8</td>
+<td>8/9</td>
+<td>6/8</td>
+<td>2/3</td>
+<td>119</td>
+<td>119</td>
+<td>119</td>
+<td style='background-color:#CCFF99'>119.00</td>
+</tr>
+<tr><td> #28</td><td>3</td>
+<td>Rob Bironas</td><td>TEN</td>
+<td>35</td><td>K</td>
+<td>8</td>
+<td>188.5</td>
+<td>30</td>
+<td>25/29</td>
+<td>6/6</td>
+<td>9/10</td>
+<td>7/9</td>
+<td>3/4</td>
+<td>118</td>
+<td>118</td>
+<td>118</td>
+<td style='background-color:#CCFF99'>118.00</td>
+</tr>
+<tr><td> #29</td><td>3</td>
+<td>Mike Nugent</td><td>CIN</td>
+<td>31</td><td>K</td>
+<td>12</td>
+<td>188.7</td>
+<td>36</td>
+<td>24/29</td>
+<td>9/9</td>
+<td>6/7</td>
+<td>8/11</td>
+<td>1/2</td>
+<td>118</td>
+<td>118</td>
+<td>118</td>
+<td style='background-color:#CCFF99'>118.00</td>
+</tr>
+<tr><td> #30</td><td>3</td>
+<td>Shayne Graham</td><td>CLE</td>
+<td>35</td><td>K</td>
+<td>10</td>
+<td>192.4</td>
+<td>28</td>
+<td>26/32</td>
+<td>11/11</td>
+<td>7/7</td>
+<td>6/8</td>
+<td>2/4</td>
+<td>116</td>
+<td>116</td>
+<td>116</td>
+<td style='background-color:#CCFF99'>116.00</td>
+</tr>
+<tr><td> #31</td><td>3</td>
+<td>Nick Folk</td><td>NYJ</td>
+<td>28</td><td>K</td>
+<td>10</td>
+<td>-</td>
+<td>30</td>
+<td>24/33</td>
+<td>8/8</td>
+<td>7/8</td>
+<td>6/9</td>
+<td>3/5</td>
+<td>114</td>
+<td>114</td>
+<td>114</td>
+<td style='background-color:#CCFF99'>114.00</td>
+</tr>
+<tr><td> #32</td><td>3</td>
+<td>Graham Gano</td><td>CAR</td>
+<td>26</td><td>K</td>
+<td>4</td>
+<td>-</td>
+<td>43</td>
+<td>20/27</td>
+<td>5/5</td>
+<td>6/8</td>
+<td>7/9</td>
+<td>2/4</td>
+<td>114</td>
+<td>114</td>
+<td>114</td>
+<td style='background-color:#CCFF99'>114.00</td>
+</tr>
+<tr><td colspan='2'></td><td align='left'></td><td colspan='18'></td></tr>
+<tr>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Rank</th><th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tier</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Player</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Tm</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>AGE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>Pos</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>BYE</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>ADP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PAT</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FG</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>1-29</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>30-39</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>40-49</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>50+</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>TDO</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>PPR</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>FP</th>
+<th style='background-color:#b3bdda;font-weight:bold;color:#000000;'>62S</th>
+</tr>
+<tr><td> #999</td><td>10</td>
+<td>Lawrence Tynes</td><td>TB</td>
+<td>35</td><td>K</td>
+<td>5</td>
+<td>190.8</td>
+<td>36</td>
+<td>27/31</td>
+<td>10/10</td>
+<td>5/5</td>
+<td>9/11</td>
+<td>3/5</td>
+<td>132</td>
+<td>132</td>
+<td>132</td>
+<td style='background-color:#CCFF99'>132.00</td>
+</tr>
+</table>
+</table></body></html>
