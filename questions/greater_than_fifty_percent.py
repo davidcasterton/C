@@ -1,18 +1,40 @@
-import pprint
+import json
+import pandas
+import pdb
 
 
-values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+df = pandas.read_table('sample_data.txt')
+df = df.iloc[:, range(3)]
+col_name = 'Overarching Entity (Short Name)'
+col_shares = 'Shares of A+B+C'
+col_percent = '% of (A+B+C)'
+df[col_percent] = df[col_percent].map(lambda x: x.rstrip('%'))
+df[col_percent] = df[col_percent].astype(float)
+df.sort_values(by=col_percent, ascending=False, inplace=True)
 
-total = sum(values)
+
+total = sum([float(x) for x in df[col_percent].values])
 threshold = total / 2
 
-values.sort(reverse=True)
+results = {
+    'sum of all percents': total,
+    '50% of all percents' : threshold
+}
+for i in range(len(df)):
+    for k in range(i, len(df)):
+        percents = df[col_percent][i:k].values
+        if sum(percents) >= threshold:
+            result = {
+                'sum': sum(percents), 
+                'names': list(df[col_name][i:k].values),
+                'shares': list(df[col_shares][i:k].values),
+                'percents': list(percents)
+            }
+            try:
+                results[len(percents)].append(result)
+            except KeyError as e:
+                results[len(percents)] = []
+                results[len(percents)].append(result)
 
-results = []
-for i in range(len(values)):
-    for k in range(i, len(values)):
-        if sum(values[i:k]) >= threshold:
-            results.append(['total: %s' % sum(values[i:k]), values[i:k]])
-
-print('total: %s\n50%%: %s\n' % (total, threshold))
-pprint.pprint(results)
+with open('cheers.json', 'w') as f:
+    json.dump(results, f, indent=4)
