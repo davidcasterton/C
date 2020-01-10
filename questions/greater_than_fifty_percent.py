@@ -1,9 +1,10 @@
+import datetime
 import json
 import pandas
 import pdb
 
 
-df = pandas.read_table('sample_data.txt')
+df = pandas.read_table('daveb_data_2.txt')
 df = df.iloc[:, range(3)]
 col_name = 'Overarching Entity (Short Name)'
 col_shares = 'Shares of A+B+C'
@@ -14,11 +15,11 @@ df.sort_values(by=col_percent, ascending=False, inplace=True)
 
 
 total = sum([float(x) for x in df[col_percent].values])
-threshold = total / 2
+threshold = 50
 
 results = {
     'sum of all percents': total,
-    '50% of all percents' : threshold
+    'threshold' : threshold
 }
 for i in range(len(df)):
     for k in range(i, len(df)):
@@ -36,5 +37,5 @@ for i in range(len(df)):
                 results[len(percents)] = []
                 results[len(percents)].append(result)
 
-with open('cheers.json', 'w') as f:
+with open('%s.json' % datetime.datetime.now(), 'w') as f:
     json.dump(results, f, indent=4)
