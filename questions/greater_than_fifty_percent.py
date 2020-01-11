@@ -22,7 +22,10 @@ df[COL_PERCENT] = df[COL_PERCENT].map(lambda x: x.rstrip('%'))
 df[COL_PERCENT] = df[COL_PERCENT].astype(float)
 df.sort_values(by=COL_PERCENT, ascending=False, inplace=True)
 
-#unique_combinations = []
+percents_lookup = {}
+for i in range(len(df)):
+    percents_lookup[i] = df[COL_PERCENT][i]
+
 num_results = 0
 
 with open(OUTPUT_FILE_PATH, 'w') as f:
@@ -33,16 +36,18 @@ with open(OUTPUT_FILE_PATH, 'w') as f:
         header.append("%s (%s)" % (df[COL_NAME][i], df[COL_PERCENT][i]))
     csv_writer.writerow(header)
 
-    for sequence_length in range(1, 30):
+    for sequence_length in range(len(df)):
         print(sequence_length)
         
         for indexes in itertools.combinations(range(len(df)), sequence_length):
-            percents = df[COL_PERCENT][list(indexes)].values
+            percent_sum = 0
+            for index in indexes:
+                percent_sum += percents_lookup[index]
 
-            if sum(percents) >= THRESHOLD:
+            if percent_sum >= THRESHOLD:
                 num_results += 1
 
-                row = [sequence_length, sum(percents)]
+                row = [sequence_length, percent_sum]
                 funds = [""] * len(df)
                 for index in indexes:
                     funds[index] = "x"
