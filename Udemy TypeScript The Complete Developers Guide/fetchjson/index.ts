@@ -11,17 +11,14 @@ interface Todo {
 // axios.get return a promise
 // chaining .then that will be called with response once we get a response from API
 axios.get(url).then(response => {
-    // console.log(response.data);
-
     const todo = response.data as Todo;
-
-    const id = todo.id;
-    const title = todo.title;
-    const completed = todo.completed;
-
-    console.log(`
-    ID: ${id}
-    Title: ${title}
-    Completed? ${completed}
-    `);
+    logTodo(todo);
 });
+
+const logTodo = (todo : Todo) => {
+    console.log(`
+        ID: ${todo.id}
+        Title: ${todo.title}
+        Completed? ${todo.completed}
+        `);
+}
