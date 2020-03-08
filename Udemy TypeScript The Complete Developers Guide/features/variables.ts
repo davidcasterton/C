@@ -13,10 +13,10 @@ let numbers_: number[] = [1,2,3];
 let truths: boolean[] = [true, true, false];
 
 // classes
-class Car {
+class Car_ {
 
 }
-let car: Car = new Car();
+let car_: Car_ = new Car_();
 
 // object literal
 let point: {x: number; y: number} = {
