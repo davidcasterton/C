@@ -29,7 +29,7 @@ class Game{
 	
 	init() {
 		this.camera = new THREE.PerspectiveCamera( 45, window.innerWidth / window.innerHeight, 1, 2000 );
-		this.camera.position.set( 10, 10, 10 );
+		this.camera.position.set( 0, 10, 20 );
 
 		this.scene = new THREE.Scene();
 		this.scene.background = new THREE.Color( 0xa0a0a0 );
@@ -118,16 +118,16 @@ class Game{
 			indeForwardAxis: 2
 		});
 
-		options.chassisConnectionPointLocal.set(1, 0, -1);
+		options.chassisConnectionPointLocal.set(1, 0, -1);  // front right
 		vehicle.addWheel(options);
 
-		options.chassisConnectionPointLocal.set(-1, 0, -1);
+		options.chassisConnectionPointLocal.set(-1, 0, -1);  //front left
 		vehicle.addWheel(options);
 
-		options.chassisConnectionPointLocal.set(1, 0, 1);
+		options.chassisConnectionPointLocal.set(1, 0, 1);  // back right
 		vehicle.addWheel(options);
 
-		options.chassisConnectionPointLocal.set(-1, 0, 1);
+		options.chassisConnectionPointLocal.set(-1, 0, 1);  // back left
 		vehicle.addWheel(options);
 
 		vehicle.addToWorld(world);
@@ -215,6 +215,8 @@ class Game{
 		
 		this.vehicle.setSteeringValue(steer, 0);
 		this.vehicle.setSteeringValue(steer, 1);
+		this.vehicle.setSteeringValue(-steer, 2);
+		this.vehicle.setSteeringValue(-steer, 3);
 	}
 	
 	onWindowResize() {
@@ -226,7 +228,7 @@ class Game{
 	}
 
 	updateCamera(){
-		this.camera.position.lerp(this.followCam.getWorldPosition(new THREE.Vector3()), 0.05);
+		this.camera.position.lerp(this.followCam.getWorldPosition(new THREE.Vector3()), 0.5);
 		this.camera.lookAt(this.vehicle.chassisBody.threemesh.position);
         if (this.helper.sun!=undefined){
 			this.helper.sun.position.copy( this.camera.position );

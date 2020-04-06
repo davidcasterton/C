@@ -23,9 +23,9 @@ class Game{
 		this._hints = 0;
 		this.score = 0;
 		this.debug = false;
-		this.debugPhysics = false;
+		this.debugPhysics = true;
 		this.fixedTimeStep = 1.0/60.0;
-		this.js = { forward:0, turn:0 };
+		this.js = { forward:0, turn:0, jump:0 };
         this.assetsPath = "../assets/";
 		
 		this.messages = { 
@@ -95,13 +95,18 @@ class Game{
             if (node.nodeType==1){
                 const i = index;
                 node.onclick = function(){ 
-                    game.carGUIHandler(i); 
-                };
+					game.carGUIHandler(i); 
+				};
+				game.carGUIHandler(i);  // init parts to first choice
                 index++;
             }
         });
         
-        document.getElementById('play-btn').onclick = function(){ game.startGame(); };
+		document.getElementById('play-btn').onclick = function(){ game.startGame(); };
+		
+		// key bindings
+		document.addEventListener("keydown", this.keyboardCallback, false);
+		document.addEventListener("keyup", this.keyboardCallback, false);
         
 		const preloader = new Preloader(options);
 		
@@ -237,7 +242,7 @@ class Game{
 		this.mode = this.modes.INITIALISING;
 
 		this.camera = new THREE.PerspectiveCamera( 45, window.innerWidth / window.innerHeight, 1, 500 );
-		this.camera.position.set( 0, 6, -15 );
+		this.camera.position.set( 0, 3, -10 );
 
 		this.scene = new THREE.Scene();
 		this.scene.background = new THREE.Color( 0x000000 );
@@ -564,12 +569,39 @@ class Game{
 	}
 	
 	joystickCallback( forward, turn ){
+		// console.log(forward, turn);
 		this.js.forward = -forward;
 		this.js.turn = -turn;
 	}
+
+	keyboardCallback(event) {
+		const keyPressed = event.type == 'keydown' ? 1.0 : 0.0;
+		
+		//longitudinal
+		if (event.key == 'ArrowUp') {
+			game.js.forward = -1.0 * keyPressed;
+		} else if (event.key == 'ArrowDown') {
+			game.js.forward = 1.0 * keyPressed;
+		}
+
+		// lateral
+		if (event.key == 'ArrowLeft') {
+			game.js.turn = 1.0 * keyPressed;
+		} else if (event.key == 'ArrowRight') {
+			game.js.turn = -1.0 * keyPressed;
+		}
+
+		// commands
+		if (event.key == 'r') {
+			game.resetCar();
+		}
+		if (event.key == 'j') {
+			game.js.jump = 1;
+		}
+	};
 		
     updateDrive(forward=this.js.forward, turn=this.js.turn){
-		this.sfx.engine.volume = Math.abs(forward) * 0.1;
+		this.sfx.engine.volume = Math.abs(forward) * 0.01;
         
 		const maxSteerVal = 0.6;
         const maxForce = 500;
@@ -662,6 +694,19 @@ class Game{
 						const elements = body.threemesh.matrix.elements;
 						const yAxis = new THREE.Vector3(elements[4], elements[5], elements[6]);
 						body.threemesh.position.sub(yAxis.multiplyScalar(0.6));
+
+						if (game.js.jump) {
+							body.position.y += 3;
+							game.js.jump = 0;
+						}
+
+						if (Math.abs(body.quaternion.z) > 0.5) {
+							// reset car
+							game.sfx.skid.play();
+							body.quaternion.x = 0;
+							body.quaternion.y = 0;
+							body.quaternion.z = 0;
+						}
 					}
 				}
 			});
