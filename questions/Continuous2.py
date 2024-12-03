@@ -6,9 +6,15 @@ def continuous(input_list):
 
     output = 0
     current = 0
-    for elem in input_list:
+    start = 0
+    end = 0
+    for i in range(len(input_list)):
+        elem = input_list[i]
+
         if elem > current + elem:
+            # start new sub list
             current = elem
+
         else:
             current += elem
 
@@ -23,6 +29,3 @@ input_list = [1, 2, -8, 5, 6, -10, 7, 8, -15, 3, 4, -20, 15]
 output = continuous(input_list)
 print("input: %s\noutput: %s" % (input_list, output))
 assert output == 16
-
-
-class
