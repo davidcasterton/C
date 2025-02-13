@@ -28,3 +28,12 @@ class Solution:
 
         out = "".join([rs[i] for i in range(numRows)])
         return out
+
+
+if __name__ == '__main__':
+    s = "PAYPALISHIRING"
+    numRows = 3
+
+    solution = Solution()
+    out = solution.convert(s, numRows)
+    print(out)

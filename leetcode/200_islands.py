@@ -1,54 +1,76 @@
+from typing import Optional
+
 class Solution:
     def __init__(self):
-        self.grid: List[List[str]] = []
-        self.rows = 0
-        self.cols = 0
-        self.visited: List[List[str]] = []
-        self._numIslands = 0
+        self.__grid: Optional[List[List[str]]] = None
+        self.__M: Optional[int] = None
+        self.__N: Optional[int] = None
+        self.__visited: Optional[List[List[str]]] = None
 
-    def isIsland(self, row, col):
-        if self.visited[row][col]:
+        self.num_islands = 0
+
+    @property
+    def grid(self):
+        if self.__grid == None:
+            assert AssertionError('grid is undefined')
+        return self.__grid
+
+    @grid.setter
+    def grid(self, grid):
+        self.__grid = grid
+        self.__M = len(grid)
+        self.__N = len(grid[0])
+        self.__visited = [[False] * self.N for _ in range(self.M)]
+
+    @property
+    def M(self):
+        if self.__M == None:
+            assert AssertionError('M is undefined')
+        return self.__M
+
+    @property
+    def N(self):
+        if self.__N == None:
+            assert AssertionError('N is undefined')
+        return self.__N
+
+    @property
+    def visited(self):
+        if self.__visited == None:
+            assert AssertionError('visited is undefined')
+        return self.__visited
+
+    @visited.setter
+    def visited(self, vals):
+        m, n, val = vals
+        self.__visited[m][n] = val
+
+
+    def recursive_is_island(self, m, n, expansion=False):
+        if not (0 <= m < self.M) or not (0 <= n < self.N):
             return
+        if self.visited[m][n]:
+            return
+        print(m,n)
 
-        self.visited[row][col] = True
+        self.visited = (m, n, True)
 
-        # is island
-        if self.grid[row][col] == "1":
-            neighbors = [(row, col-1), (row, col+1), (row-1, col), (row+1, col)]
+        if self.grid[m][n] == "1":
+            if not expansion:
+                self.num_islands += 1
 
-            # check if new island
-            newIsland = True
-            for r,c in neighbors:
-                if r == -1 or c == -1:
-                    continue
-                try:
-                    if self.grid[r][c] == "1" and self.visited[r][c]:
-                        newIsland = False
-                except IndexError:
-                    pass
-            if newIsland:
-                self._numIslands += 1
-
-            # recursively expand to neighbors
-            for r,c in neighbors:
-                if r<0 or r>self.rows-1 or c<0 or c>self.cols-1:
-                    continue
-                self.isIsland(r,c)
+            neighbors = [[m, n-1], [m, n+1], [m-1, n], [m+1, n]]
+            for _m, _n in neighbors:
+                self.recursive_is_island(_m, _n, expansion=True)
 
     def numIslands(self, grid: List[List[str]]) -> int:
-        # handle empty dimensions
         if not grid or len(grid) == 0 or len(grid[0]) == 0:
-            # print('early exit')
-            return 0
+            return 0 # handle empty dimensions
 
-        # init data structures
         self.grid = grid
-        self.rows = len(grid)
-        self.cols = len(grid[0])
-        self.visited: List[List[str]] = [[False] * self.cols for _ in range(self.rows)]
 
-        for r in range(self.rows):
-            for c in range(self.cols):
-                self.isIsland(r,c)
+        for m in range(self.M):
+            for n in range(self.N):
+                self.recursive_is_island(m, n)
 
-        return self._numIslands
+        return self.num_islands

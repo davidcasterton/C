@@ -3,7 +3,7 @@ class Solution:
         M = len(grid) # rows
         N = len(grid[0]) # cols
 
-        c: list[list[int]] = []
+        c: list[list[int]] = [] # cost grid
         for m in range(M):
             c.append([])
             for n in range(N):
